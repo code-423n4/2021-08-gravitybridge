@@ -66,7 +66,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 # Althea Gravity Bridge contest details
 - $100,000 USDC (+ tokens) main award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
-- Submit findings [using the C4 form](https://code423n4.com/2021-08-altheagravitybridge-contest/submit)
+- Submit findings [using the C4 form](https://code423n4.com/2021-08-althea-gravity-bridge-contest/submit)
 - [Read our guidelines for more details](https://code423n4.com/compete)
 - Starts August 26 00:00 UTC
 - Ends September 8 23:59 UTC
