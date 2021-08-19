@@ -1,4 +1,4 @@
-# ✨ So you want to sponsor a contest
+# Althea Gravity Bridge Contest
 
 This `README.md` contains a set of checklists for our contest collaboration.
 
