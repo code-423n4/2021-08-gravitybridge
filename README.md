@@ -50,19 +50,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 ---
 
-# Contest prep
-
-## 🐺 C4: Contest prep
-- [ ] Rename this repo to reflect contest date (if applicable)
-- [ ] Rename contest H1 below
-- [ ] Add link to report form in contest details below
-- [ ] Update pot sizes
-- [ ] Fill in start and end times in contest bullets below.
-- [ ] Move any relevant information in "contest scope information" above to the bottom of this readme.
-- [ ] Add matching info to the [code423n4.com public contest data here](https://github.com/code-423n4/code423n4.com/blob/main/_data/contests/contests.csv))
-- [ ] Delete this checklist.
-
-## ⭐️ Sponsor: Contest prep
+# ⭐️ Sponsor: Contest prep
 - [ ] Make sure your code is thoroughly commented using the [NatSpec format](https://docs.soliditylang.org/en/v0.5.10/natspec-format.html#natspec-format).
 - [ ] Modify the bottom of this `README.md` file to describe how your code is supposed to work with links to any relevent documentation and any other criteria/details that the C4 Wardens should keep in mind when reviewing. ([Here's a well-constructed example.](https://github.com/code-423n4/2021-06-gro/blob/main/README.md))
 - [ ] Please have final versions of contracts and documentation added/updated in this repo **no less than 8 hours prior to contest start time.**
@@ -75,14 +63,13 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 
 ---
 
-# Sponsorname contest details
-- TBD main award pot
-- TBD gas optimization award pot
+# Althea Gravity Bridge contest details
+- $100,000 USDC (+ tokens) main award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
-- Submit findings [using the C4 form](https://code423n4.com/YYYY-MM-sponsorName-contest/submit)
+- Submit findings [using the C4 form](https://code423n4.com/2021-08-altheagravitybridge-contest/submit)
 - [Read our guidelines for more details](https://code423n4.com/compete)
-- Starts TBD XXX XXX XX 00:00 UTC
-- Ends TBD XXX XXX XX 23:59 UTC
+- Starts August 26 00:00 UTC
+- Ends September 8 23:59 UTC
 
 This repo will be made public before the start of the contest. (C4 delete this line when made public)
 
