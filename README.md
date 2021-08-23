@@ -60,7 +60,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - $100,000 USDC (+ tokens) main award pot
 - Join [C4 Discord](https://discord.gg/EY5dvm3evD) to register
 - Submit findings [using the C4 form](https://code423n4.com/2021-08-althea-gravity-bridge-contest/submit)
-- [Read our guidelines for more details](https://code423n4.com/compete)
+- [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts August 26 00:00 UTC
 - Ends September 8 23:59 UTC
 
